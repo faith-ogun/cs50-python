@@ -4,8 +4,10 @@ This repository contains selected solutions from Harvard's CS50 Introduction to 
 
 These are the problem sets I'm most proud of, chosen for clarity, problem-solving and clean code.
 
-## Included
+See all solved problems at:
+https://prodigycreative.notion.site/Harvard-CS50-1f9ad7c8edf880339a6fd7ce8ba9e7d4?pvs=4
 
+## Included
 - `professor.py` – Little Professor-style math quiz with error handling
 - `figlet.py` – Command-line text art generator using pyfiglet
 - `fuel.py` – Fuel gauge logic based on user input
