@@ -22,7 +22,7 @@ except (requests.RequestException):
     sys.exit("Invalid request.")
 
 # CoinCap Request
-response = requests.get("https://rest.coincap.io/v3/assets/bitcoin?apiKey=1b22ef32120908493e963ff04a359170d7922aa9cd5e474195a8ac5b0f001c34")
+response = requests.get("https://rest.coincap.io/v3/assets/bitcoin?apiKey=myKey")
 # dont forget https://
 
 o = response.json()
