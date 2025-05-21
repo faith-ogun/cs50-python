@@ -10,7 +10,6 @@ https://prodigycreative.notion.site/Harvard-CS50-1f9ad7c8edf880339a6fd7ce8ba9e7d
 ## Included
 - `professor.py`: Little Professor-style math quiz with error handling
 - `figlet.py`: Command-line text art generator using pyfiglet
-- `fuel.py`: Fuel gauge logic based on user input
 - `meal.py`: Determines meal time based on input clock time
 - `outdated.py`: Converts ambiguous US-formatted dates to ISO format
 - `plates.py`: Validates vanity license plates using custom rules
@@ -18,4 +17,5 @@ https://prodigycreative.notion.site/Harvard-CS50-1f9ad7c8edf880339a6fd7ce8ba9e7d
 - `bitcoin.py`: Retrieves real-time Bitcoin price and calculates its value based on user input using the CoinCap API
 - `twttr/`: Removes vowels from input text and includes Pytest unit tests to verify correct behaviour.
 - `bank/`: Returns an integer dollar value based on greeting: 0 for "hello", 20 for other "h" words, and 100 otherwise and includes Pytest unit tests to verify correct behaviour.
+- `fuel/`: Fuel gauge logic based on user input and includes Pytest unit tests to verify correct behaviour.
 
