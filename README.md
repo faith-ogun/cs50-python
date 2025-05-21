@@ -16,4 +16,4 @@ https://prodigycreative.notion.site/Harvard-CS50-1f9ad7c8edf880339a6fd7ce8ba9e7d
 - `plates.py`: Validates vanity license plates using custom rules
 - `taqueria.py`: A simple menu + order calculator for a taco shop
 - `bitcoin.py`: Retrieves real-time Bitcoin price and calculates its value based on user input using the CoinCap API
-
+- `twttr.py`: Removes vowels from input text and includes Pytest unit tests to verify correct behaviour.
